@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎓 শিক্ষা AI v3 - Bangladesh Learning Platform
 
 ## Features
@@ -96,3 +97,6 @@ shikkha-v3/
 - **Recording** (🎥) - রেকর্ডিং (video + file URL)
 - **File** (📂) - ফাইল (Google Drive, etc.)
 - **Video** (▶️) - ভিডিও (YouTube, etc.)
+=======
+# Shikkha-AI-Education-Ai-
+>>>>>>> 58231c9b12cef13a4a60e4712103cd64468bf130
