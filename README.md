@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# 🎓 শিক্ষা AI v3 - Bangladesh Learning Platform
+# 🎓 শিক্ষা AI- Bangladesh Learning Platform
 
 ## Features
 - ✅ **Entry Screen → Login** (Ostad app style, role select first)
