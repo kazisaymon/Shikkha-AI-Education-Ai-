@@ -1,5 +1,7 @@
 <<<<<<< HEAD
 # 🎓 শিক্ষা AI- Bangladesh Learning Platform
+<<<<<<<<HEAD
+# Live link;https://shikkha-ai-education-ai.vercel.app/
 
 ## Features
 - ✅ **Entry Screen → Login** (Ostad app style, role select first)
